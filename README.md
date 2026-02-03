@@ -1,20 +1,21 @@
 # Welcome to [Alenso's](https://www.linkedin.com/in/alensomaxx/) profile! <a href="https://www.linkedin.com/in/alensomaxx/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## Glad to see you here!
 <img align="right" alt="GIF" src="codein.gif" width="408" height="318" />
-👨‍🎓 I'm an Aspiring AI/ML Architect  
-🔭 I'm currently working on Data Science  
-💬 Ask me about anything, I am happy to help  
-✍️ I'm a Tech Enthusiast  
-🌱 I'm currently learning:
-- Data Structures and Algorithms
-- Tools and technologies from Python ecosystem
-
-👯 Join my community if you're a tech enthusiast  
-📬 How to reach me: alensocreations@gmail.com    
-💪 This is where I write, code and solve problems
 
 A passionate problem-solver dedicated to building impactful solutions.  
 Excited to create 🛠️, learn 📚, and innovate 💡 wherever I go!
+ 
+🔭 I'm currently working on Agent Orchestration  
+💬 Ask me about anything, I am happy to help  
+
+👯 Join my community if you're a tech enthusiast
+
+💪 This is where I write, code and solve problems
+
+📬 How to reach me: alensocreations@gmail.com    
+
+
+
 
 
 ## 🌐 Socials:
