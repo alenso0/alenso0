@@ -8,7 +8,7 @@ Excited to create 🛠️, learn 📚, and innovate 💡 wherever I go!
 🔭 I'm currently working on Agent Orchestration  
 💬 Ask me about anything, I am happy to help  
 
-👯 Join my community if you're a tech enthusiast - 
+👯 Join my community if you're a tech enthusiast - [join](https://whatsapp.com/channel/0029Vb7j0ag0G0XiMJ6eLo0p)
 
 💪 This is where I write, code and solve problems
 
